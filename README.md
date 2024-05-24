@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @piyush11031
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning cs50
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Piyush Pareek
+- 👀 I’m interested in Java, Spring Boot.
 - 📫 How to reach me pareekpiyush747@gmail.com
 
 <!---
